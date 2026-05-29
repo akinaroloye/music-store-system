@@ -1,0 +1,5 @@
+RecordID,Artist,Title,Medium,Genre,PurchaseDate
+abb01,Abba,Record_1,Vinyl,Pop,2010-08-01
+njf01,NF,Record_2,CD,Rap,2020-08-01
+bet02,Beethoven,Record_3,Tape,Classical,2019-08-01
+njf01,NF,Record_2,CD,Pop,2020-08-01

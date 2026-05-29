@@ -1,0 +1,5 @@
+RecordID,RentalDate,ReturnDate,RentalCustomerID 
+abb01,2024-09-13, ,coab 
+njf01,2024-09-12,2024-10-04,abcd 
+bet02,2024-09-18, ,mnop
+njk01,2024-09-12, ,abcd 
